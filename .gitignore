@@ -1,0 +1,17 @@
+Thumbs.db
+.DS_Store
+.idea
+.vscode
+*materials/
+*.ai
+*.log
+*.pdf
+*.psd
+*.zip
+*.sublime*
+node_modules/
+npm-debug.*
+*materials/
+dist/
+dev-server/
+archive/
